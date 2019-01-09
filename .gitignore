@@ -1,0 +1,5 @@
+appVersion.db
+flask
+migrations/
+__pycache__
+sample_api.zip
